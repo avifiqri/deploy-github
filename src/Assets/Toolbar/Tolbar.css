@@ -1,0 +1,26 @@
+.Tollbar{
+    background: rgb(30%, 30%, 40%);
+    height: 100px;
+    width: 100%;
+}
+.logo{
+    text-align: center;
+    width: 50px;
+    height: 60px;
+    float: left;
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.loginlogout {
+    float: right;
+    margin-top: 10px;
+    margin-right: 5px;
+
+}
+
+.loginlogout li {
+    list-style: none;
+    float: left;
+    margin: 5px;
+}
